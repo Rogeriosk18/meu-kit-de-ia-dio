@@ -61,27 +61,196 @@ _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+
+Atalho 01 — Analista de Briefing
+
+Você é um profissional especialista em branding e análise de briefings de identidade visual.
+
+Sua tarefa é analisar as informações fornecidas pelo cliente e transformá-las em um briefing profissional, organizado e objetivo.
+
+CONTEXTO:
+Estou desenvolvendo um projeto de identidade visual e preciso compreender a marca antes de iniciar qualquer criação.
+
+INFORMAÇÕES DO PROJETO:
+[Nome da marca]
+[Segmento de atuação]
+[História da marca]
+[Público-alvo]
+[Produtos ou serviços]
+[Valores e personalidade]
+[Objetivos]
+[Preferências visuais]
+[Concorrentes ou referências]
+
+INSTRUÇÕES:
+1. Organize as informações recebidas.
+2. Identifique os principais objetivos da marca.
+3. Defina o perfil do público-alvo.
+4. Identifique os diferenciais competitivos.
+5. Aponte oportunidades de posicionamento.
+6. Identifique informações ausentes ou contraditórias.
+7. Sugira perguntas complementares quando necessário.
+
+FORMATO DA RESPOSTA:
+- Resumo da marca.
+- Objetivos do projeto.
+- Público-alvo.
+- Personalidade e posicionamento.
+- Diferenciais.
+- Direcionamento criativo.
+- Dúvidas que precisam ser esclarecidas.
+
+Não invente informações sobre o cliente. Diferencie dados fornecidos de sugestões.
+
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+
+Atalho 02 — Diretor Criativo de Identidade Visual
+
+Você é um diretor criativo especialista em identidade visual, branding e comunicação visual.
+
+Sua tarefa é desenvolver um direcionamento criativo a partir de um briefing previamente analisado e aprovado.
+
+CONTEXTO:
+[Inserir o briefing estruturado pelo Analista de Briefing.]
+
+OBJETIVO:
+Criar uma proposta estratégica de identidade visual coerente com a personalidade, o posicionamento e o público-alvo da marca.
+
+INSTRUÇÕES:
+1. Desenvolva três conceitos criativos distintos.
+2. Explique a ideia central de cada conceito.
+3. Sugira paletas de cores e explique suas aplicações.
+4. Recomende combinações tipográficas.
+5. Sugira caminhos para o desenvolvimento do logotipo.
+6. Apresente elementos gráficos complementares.
+7. Sugira aplicações da identidade visual.
+8. Explique os pontos fortes e possíveis limitações de cada conceito.
+
+FORMATO DA RESPOSTA:
+- Conceito criativo.
+- Justificativa estratégica.
+- Paleta de cores com códigos HEX.
+- Tipografia recomendada.
+- Direcionamento para o logotipo.
+- Elementos gráficos.
+- Aplicações da marca.
+- Recomendação final.
+
+LIMITES:
+Não apresente sugestões como fatos comprovados. Não descaracterize o briefing. Aguarde aprovação do conceito antes de avançar para a criação definitiva.
+
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+
+Atue como um profissional especialista em branding, identidade visual e direção de arte.
+
+OBJETIVO:
+Organizar e desenvolver uma proposta estratégica de identidade visual para uma marca, utilizando os dois atalhos criados: Analista de Briefing e Diretor Criativo.
+
+CONTEXTO:
+Estou desenvolvendo meus conhecimentos em design gráfico e quero utilizar a Inteligência Artificial como ferramenta de apoio no desenvolvimento de projetos profissionais.
+
+RECURSOS:
+- Briefing do projeto.
+- Atalho Analista de Briefing.
+- Atalho Diretor Criativo de Identidade Visual.
+- Conhecimentos de branding e comunicação visual.
+
+ETAPAS:
+1. Analise o briefing e organize as informações.
+2. Identifique eventuais lacunas e solicite esclarecimentos.
+3. Apresente um plano de desenvolvimento.
+4. Aguarde minha aprovação do plano.
+5. Desenvolva três conceitos criativos.
+6. Compare os conceitos e apresente uma recomendação justificada.
+7. Aguarde minha decisão antes de considerar qualquer conceito aprovado.
+
+LIMITES:
+- Não invente informações sobre a marca.
+- Não utilize dados pessoais ou confidenciais.
+- Não tome decisões definitivas sem minha aprovação.
+- Explique o raciocínio por trás das recomendações.
+- Separe informações confirmadas de sugestões criativas.
+
+CRITÉRIOS DE SUCESSO:
+Entregar um briefing organizado, um planejamento claro e três propostas conceituais coerentes com a identidade da marca, permitindo que eu avalie e conduza as decisões finais.
+
+Antes de executar qualquer etapa, apresente o plano de trabalho para minha aprovação.
+
 ```
+
+--- 
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+Para realizar a tarefa, utilizei a Inteligência Artificial como apoio estratégico no desenvolvimento da identidade visual da marca Hamburgada 4 Cantos.
+
+A IA foi orientada a trabalhar como analista de briefing e diretor criativo, seguindo etapas para compreender o projeto, organizar as informações e apresentar possibilidades visuais.
+
+O planejamento foi dividido em seis etapas:
+
+Análise do briefing: compreensão da história, proposta e objetivos da marca.
+
+Definição estratégica: identificação da personalidade, público-alvo e diferenciais.
+
+Desenvolvimento de conceitos: criação de três caminhos criativos para a identidade visual.
+
+Direcionamento visual: definição de cores, tipografia, elementos gráficos e aplicações.
+
+Comparação e recomendação: análise dos conceitos apresentados e identificação de seus pontos fortes.
+
+Validação humana: escolha do conceito mais adequado, considerando a proposta original do projeto.
+
+A IA apresentou o planejamento antes de executar a tarefa, permitindo que eu avaliasse e aprovasse o direcionamento.
+
+
+Evidência do planejamento
+
+<img width="875" height="441" alt="Montar-kit-de-IA-11-10-2026_07_25_PM" src="https://github.com/user-attachments/assets/c7ac452f-d8d0-4aa4-9344-6c429b15e2f3" />
+
+---
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+Após a análise do briefing, a IA apresentou três propostas de identidade visual:
+
+Conceito 01 — Pit Smoke Garage: uma proposta com maior destaque para a cultura de garagem e o universo do Pit Smoker.
+
+Conceito 02 — Urban Burger Culture: uma identidade urbana, moderna e robusta, preservando elementos rústicos e a personalidade da marca.
+
+Conceito 03 — Four Corners Emblem: uma proposta com foco no emblema e na representação visual dos quatro cantos.
+
+Após comparar as alternativas, escolhi o Conceito 02 — Urban Burger Culture.
+
+A decisão foi baseada na intenção de construir uma identidade que transmitisse personalidade, atitude e conexão com o público, sem perder os elementos que já faziam parte da proposta original.
+
+Evidência dos conceitos apresentados
+
+<img width="272" height="582" alt="Montar-kit-de-IA-11-10-2026_07_37_PM" src="https://github.com/user-attachments/assets/2b851b51-dc9b-49ed-a43c-3193f549746a" />
+
+Proposta visual desenvolvida
+
+Com o conceito Urban Burger Culture escolhido, solicitei à IA uma proposta visual para o logotipo da Hamburgada 4 Cantos.
+
+A proposta buscou preservar a estética urbana e rústica, o emblema, a fumaça e a predominância das cores preto e branco, utilizando o amarelo como destaque.
+
+<img width="1312" height="1199" alt="Logo Grelhado Hamburgada 4 Cantos" src="https://github.com/user-attachments/assets/79591d0e-e156-4c41-b4c8-9c19c32ac46e" />
+
+
+O resultado representa uma primeira direção visual, que ainda poderá receber ajustes e refinamentos antes de sua utilização comercial.
+
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+A experiência me mostrou que a Inteligência Artificial pode ser uma grande aliada no processo criativo, principalmente quando existe um direcionamento claro.
+
+Consegui organizar melhor as ideias, estruturar um briefing, explorar diferentes conceitos de identidade visual e comparar possibilidades antes de tomar uma decisão.
+
+O mais importante foi perceber que a IA não substituiu minha participação. Pelo contrário, precisei analisar as sugestões, questionar os resultados e escolher o caminho que melhor representava a proposta da marca.
+
+Esse desafio também contribuiu para meu desenvolvimento na área de design gráfico, mostrando como posso utilizar a IA para otimizar processos sem abrir mão da criatividade e da decisão humana.
